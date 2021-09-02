@@ -7,3 +7,5 @@ A distrowatch for programming languages!
 - TIOBE/Stackoverflow/PYPL Ranking
 - Latest news from X language (with help from community)
 - Map any other feature that I have forgotten
+- Hello world in X language
+- Syntax example
