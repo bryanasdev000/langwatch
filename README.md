@@ -1,6 +1,10 @@
 # langwatch
 A distrowatch for programming languages!
 
+## Why?
+
+Because I failed to find something like it on the internet, I also like Distrowatch.
+
 ## TODO (Just a idea for now)
 
 - Index with basic information (categories) about the language
