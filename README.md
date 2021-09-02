@@ -13,3 +13,4 @@ Because I failed to find something like it on the internet, I also like Distrowa
 - Map any other feature that I have forgotten
 - Hello world in X language
 - Syntax example
+- Something similar to Distrochooser or LibreHunt to recommend the first programming language.
